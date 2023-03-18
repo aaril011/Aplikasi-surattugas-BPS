@@ -1,0 +1,46 @@
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.exe.config
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.exe
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.pdb
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.xml
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Resources.resources
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.vbproj.GenerateResource.Cache
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.exe
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.xml
+c:\users\firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.pdb
+C:\Users\Firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.FormUser.resources
+C:\Users\Firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.MenuUtama.resources
+C:\Users\Firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Login.resources
+C:\Users\Firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Tampildepan.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.AboutProgram.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Pegawai.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.InputPegawai.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.SuratTugas.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.vbprojResolveAssemblyReference.cache
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.SuratTugas2.resources
+C:\Users\Firli\documents\visual studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.LapSuratTugas.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.WilayahTugas.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Jabatan.resources
+C:\Users\Firli\Documents\Visual Studio 2012\Projects\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.LapSuratTugas2.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.exe.config
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.exe
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.xml
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.pdb
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.vbprojResolveAssemblyReference.cache
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.AboutProgram.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Jabatan.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.FormUser.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.InputPegawai.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.LapSuratTugas.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.LapSuratTugas2.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Login.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.MenuUtama.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Resources.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.Pegawai.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.SuratTugas.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.SuratTugas2.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.TampilDepan.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.WilayahTugas.resources
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\obj\Debug\AplikasiSuratTugasBPS.vbproj.GenerateResource.Cache
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.exe
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.pdb
+C:\Users\Firli\Documents\AplikasiSuratTugasBPS\AplikasiSuratTugasBPS\bin\Debug\AplikasiSuratTugasBPS.xml

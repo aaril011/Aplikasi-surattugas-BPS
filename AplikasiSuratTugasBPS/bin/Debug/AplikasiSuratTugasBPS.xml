@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AplikasiSuratTugasBPS
+</name>
+</assembly>
+<members>
+<member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources._1024px_Lambang_Badan_Pusat_Statistik__BPS__Indonesia_svg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources._201705161135491">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources._3263386704">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources._EXIT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.add_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.delete_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.DOC_NEW">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.DOC_NEW1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.DOC_NEW2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.edit_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.error_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.folder_open_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.folder_open_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.FOLDER05">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.FOLDER7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.FOLDER71">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.list1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Model_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Model_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Model_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Modify">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.notes1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.print_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.refresh_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.refresh_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.save_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Thumb_Model_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Thumbnail_Model_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AplikasiSuratTugasBPS.My.Resources.Resources.Thumbnail_Model_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AplikasiSuratTugasBPS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
